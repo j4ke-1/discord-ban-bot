@@ -1,9 +1,3 @@
-Apologies for the confusion! Since you mentioned that the first script you worked with was a ban bot, I’ll correct the README to reflect the functionality of a Discord bot that bans all members in a server. I’ll base this on the structure of a typical ban bot script (similar to the banning functionality in your earlier scripts, before we modified it to focus on spamming or mass DMing). The README will describe a bot that bans all members except the bot and a specified user (e.g., your user ID) when triggered via a terminal command.
-
-Here’s the corrected README for a **Discord Ban Bot**:
-
----
-
 # Discord Ban Bot
 
 A powerful Discord bot that automatically bans all members in a server except the bot and a specified user. Use with caution and only for legitimate purposes. **Ensure the bot has admin permissions before running.**
